@@ -1,0 +1,30 @@
+body{
+    background:aqua;
+    Padding:10px;
+    font-family:arial;
+}
+#all-contents{
+    max-width:100px;
+    margin:auto;
+}
+/*navigation menu*/
+nav{
+    background: white;
+    margin:0 auto;
+    display: flex;
+    padding:10px;
+}
+H1{
+    display:flex;
+    align-items:center;
+    color:blueviolet;
+    flex:1;
+    margin:0;
+}
+#nav-ul{
+    list-style-image:1;
+}
+.nav-li{
+    display:inlline-block;
+    padding:0 10px;
+}
